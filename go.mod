@@ -1,4 +1,4 @@
-module github.com/liyy7/slack-icon-merger
+module github.com/liyy7/icon-merger
 
 go 1.12
 
