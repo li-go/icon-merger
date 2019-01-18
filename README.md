@@ -1,8 +1,8 @@
-# slack-icon-merger
+# icon-merger
 
 ```
-$ go get -u github.com/liyy7/slack-icon-merger
-$ ~/.go/bin/slack-icon-merger
+$ go get -u github.com/liyy7/icon-merger
+$ ~/.go/bin/icon-merger
 ```
 ### Demo
 
