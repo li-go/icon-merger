@@ -63,7 +63,7 @@ func rectangleAtFunc(m *AlphaMask) AtFunc {
 
 var (
 	usage = `Usage:
-	slack-icon-merger {SRC_IMAGE_FILE} {OVER_IMAGE_FILE}
+	icon-merger {SRC_IMAGE_FILE} {OVER_IMAGE_FILE}
 `
 )
 
