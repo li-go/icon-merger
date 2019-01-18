@@ -6,4 +6,4 @@ $ ~/.go/bin/icon-merger
 ```
 ### Demo
 
-![generated.png](./example/merged.png)
+![src.png](./example/src.png) `+` ![over.jpg](./example/over.jpg) `--- icon-merge -->` ![generated.png](./example/merged.png)
