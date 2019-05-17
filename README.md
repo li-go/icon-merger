@@ -1,7 +1,7 @@
 # icon-merger
 
 ```
-$ go get -u github.com/liyy7/icon-merger
+$ go get -u github.com/li-go/icon-merger
 $ ~/.go/bin/icon-merger
 ```
 ### Demo
